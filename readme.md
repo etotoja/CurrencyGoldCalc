@@ -6,10 +6,14 @@
 
 >PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
 
-Contains technical documentation for application (Polish)
+Contains technical documentation for application (Polish).
 
 <br>
 
 >PL_CurrencyGoldCalc.py
 
 Source code
+
+>PL_Testcases.md.
+
+Created test cases for application and result of their execution.
