@@ -12,8 +12,8 @@ Contains technical documentation for application (Polish).
 
 >pl_main.py
 
-Source code
+Source code.
 
->PL_Testcases.md.
+>Testing Docs/
 
-Created test cases for application and result of their execution.
+Created test cases for application and reports from their executions.
