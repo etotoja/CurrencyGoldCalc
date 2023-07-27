@@ -1,5 +1,5 @@
 # CurrencyGoldCalc
-### CurrencyGoldCalc is a terminal program, which using National Bank of Poland'a API to check for current or archivized exchange or gold rate.
+### CurrencyGoldCalc is a terminal program, which using National Bank of Poland's API to check for current or archivized exchange or gold rate.
 
 <br>
 <br>
