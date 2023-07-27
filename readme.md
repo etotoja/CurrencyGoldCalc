@@ -4,13 +4,13 @@
 <br>
 <br>
 
->PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
+>1_2_PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
 
 Contains technical documentation for application (Polish).
 
 <br>
 
->PL_CurrencyGoldCalc.py
+>pl_main.py
 
 Source code
 
