@@ -4,6 +4,12 @@
 <br>
 <br>
 
+>CurrencyGoldCalc.lnk
+
+Shortcut for executing an app
+
+<br>
+
 >1_2_PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
 
 Contains technical documentation for application (Polish).
