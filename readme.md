@@ -6,7 +6,7 @@
 
 >CurrencyGoldCalc.lnk
 
-Shortcut for executing an app
+Shortcut to /dist/pl_main.exe for executing an app
 
 <br>
 
