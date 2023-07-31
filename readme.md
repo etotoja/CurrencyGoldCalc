@@ -1,4 +1,7 @@
 # CurrencyGoldCalc
+### CurrencyGoldCalc is a terminal program, which using National Bank of Poland's API to check for current or archivized exchange or gold rate.
+
+
 CurrencyGoldCalc is a terminal program, which using National Bank of Poland's API to check for current or archivized exchange or gold rate.
 
 ## How to run
@@ -21,6 +24,7 @@ Contains technical documentation for application (Polish).
 >pl_main.py
 
 Source code (Python).
+
 <br>
 
 >./Testing Docs/
