@@ -4,7 +4,7 @@
 <br>
 <br>
 
->/dist/pl_main.exe
+>./dist/pl_main.exe
 
 Main exe file to run program.
 
@@ -20,6 +20,6 @@ Contains technical documentation for application (Polish).
 
 Source code.
 
->Testing Docs/
+>./Testing Docs/
 
 Created test cases for application and reports from their executions.
