@@ -14,7 +14,7 @@ Run source code in your IDE (Installation of Python 3.x required)
 
 ## Other resources
 
->1_2_PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
+>1_3_PL_CurrencyGoldCalc - dokumentacja techniczna.pdf
 
 Contains technical documentation for application (Polish).
 
