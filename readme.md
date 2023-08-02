@@ -4,10 +4,11 @@ CurrencyGoldCalc is a terminal program, which using National Bank of Poland's AP
 
 ## How to run
 
-Navigate to:
->./dist
-
-And run *pl_main.exe*
+Run **pl_main.exe** file.
+<br>
+OR
+<br>
+Run source code in your IDE (Installation of Python 3.x required)
 
 <br>
 
