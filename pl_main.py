@@ -1,7 +1,7 @@
 from requests import get
 
 
-print("Witaj w kalkulatorze kursu walut/złota CurrencyGoldCalc")
+print("Witaj w kalkulatorze kursu walut/złota CurrencyGoldCalc 0.1")
 print("Program pobiera dane o aktualnym kursie (w PLN) wybranej waluty bądź złota w danym dniu wykorzystując dane NBP.")
 
 
