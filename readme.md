@@ -30,5 +30,3 @@ Source code (Python).
 
 Created test cases for application and reports from their executions.
 <br>
-
-TEST
